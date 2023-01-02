@@ -100,6 +100,10 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 
 - Bu uyarı pencerisinde girlien dosyanın son izin durumları görüntülenmektedir.
 
+## Proje Detayları
+
+> Shell scriptte Zenity aracı kullanılarak bir form oluşturulmuş ve formdan girilen veriler değişkenlere atanmıştır. Daha sonra, `chmod` komutu kullanılarak "fileName" değişkeninde belirtilen dosya veya dizinin izinleri if yapısıyla birlikte girilen verilere göre değiştirilmektedir. Zenity aracının "--warning" seçeneğini kullanılarak son izin durumu `ls -l $fileName | awk '{print $1}' ` komutuyla gösterilmektedir.
+
 
 
 

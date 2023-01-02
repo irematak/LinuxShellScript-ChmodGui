@@ -77,7 +77,7 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 
 <img width="756" alt="1" src="https://user-images.githubusercontent.com/75726319/210249089-747a45ae-c457-49bd-88c1-0b1d59c75555.PNG">
 
-Aşağıdaki gibi görüntülenmektedir.   
+- Aşağıdaki gibi görüntülenmektedir.   
 
 <img width="756" alt="2" src="https://user-images.githubusercontent.com/75726319/210251889-6e6408e2-c753-495d-a02f-7579d107454f.PNG">
 
@@ -86,7 +86,7 @@ Aşağıdaki gibi görüntülenmektedir.
 
 <img width="756" alt="3" src="https://user-images.githubusercontent.com/75726319/210253483-f0205758-dbc9-4c28-8936-f1a9526b7427.PNG">
 
-Son komut da çalıştırıldıktan sonra aşağıdaki şekilde bir arayüz çıkmaktadır.   
+- Son komut da çalıştırıldıktan sonra aşağıdaki şekilde bir arayüz çıkmaktadır.   
 
 <img width="756" alt="4" src="https://user-images.githubusercontent.com/75726319/210254017-b677d070-b29f-4917-ae71-ccc9819754c5.PNG">
  
@@ -96,7 +96,9 @@ Son komut da çalıştırıldıktan sonra aşağıdaki şekilde bir arayüz çı
 - File Name alanına bu işlemlerin yapılacağı bir dosya uzantısıyla birlikte (file_name.txt) girilmelir.   
 - Ok tuşuna basıldıktan sonra bir uyarı penceresi gelmektedir.   
 
-<img width="756" alt="5" src="https://user-images.githubusercontent.com/75726319/210255012-b26b9477-5a3d-4c72-8244-f4766da97549.PNG">
+<img width="756" alt="5" src="https://user-images.githubusercontent.com/75726319/210255012-b26b9477-5a3d-4c72-8244-f4766da97549.PNG">   
+
+- Bu uyarı pencerisinde girlien dosyanın son izin durumları görüntülenmektedir.
 
 
 

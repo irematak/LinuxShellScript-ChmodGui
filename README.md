@@ -89,6 +89,14 @@ Aşağıdaki gibi görüntülenmektedir.
 Son komut da çalıştırıldıktan sonra aşağıdaki şekilde bir arayüz çıkmaktadır.   
 
 <img width="756" alt="4" src="https://user-images.githubusercontent.com/75726319/210254017-b677d070-b29f-4917-ae71-ccc9819754c5.PNG">
+ 
+- User Type alanına izni değiştirilmesi istenen kullanıcı tipi girilmelidir. Bu kullanıcılar : user, group, other şeklindedir.
+- Add alanına eklenmesi istenen bir izin yazılmalıdır. İzinler : read, write, execute şeklindedir.   
+- Remove alanına kaldırılması istenen bir izin yazılmalır. İzinler : read, write, execute şeklindedir.   
+- File Name alanına bu işlemlerin yapılacağı bir dosya uzantısıyla birlikte (file_name.txt) girilmelir.   
+- Ok tuşuna basıldıktan sonra bir uyarı penceresi gelmektedir.   
+
+<img width="756" alt="5" src="https://user-images.githubusercontent.com/75726319/210255012-b26b9477-5a3d-4c72-8244-f4766da97549.PNG">
 
 
 

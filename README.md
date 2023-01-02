@@ -71,9 +71,9 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 
 ## Programın Özellikleri 
 
-İlk olarak terminalden touch komutu ile .txt uzantılı bir dosya oluşturulmaktadır. Bu dosyanın izinleri düzenlenecektir.   
-ls -l komutu ile  dosyanın izinleri görüntülenmektedir.   
-nano file_name.sh komutu ile shell script dosyası oluşturulup nano editöründe açılmaktadır.   
+- İlk olarak terminalden `touch` komutu ile .txt uzantılı bir dosya oluşturulmaktadır. Bu dosyanın izinleri düzenlenecektir.   
+- `ls -l` komutu ile  dosyanın izinleri görüntülenmektedir.   
+- `nano file_name.sh` komutu ile shell script dosyası oluşturulup nano editöründe açılmaktadır.   
 
 <img width="719" alt="1" src="https://user-images.githubusercontent.com/75726319/210249089-747a45ae-c457-49bd-88c1-0b1d59c75555.PNG">
 

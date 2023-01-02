@@ -86,6 +86,10 @@ Aşağıdaki gibi görüntülenmektedir.
 
 <img width="756" alt="3" src="https://user-images.githubusercontent.com/75726319/210253483-f0205758-dbc9-4c28-8936-f1a9526b7427.PNG">
 
+Son komut da çalıştırıldıktan sonra aşağıdaki şekilde bir arayüz çıkmaktadır.   
+
+<img width="756" alt="4" src="https://user-images.githubusercontent.com/75726319/210254017-b677d070-b29f-4917-ae71-ccc9819754c5.PNG">
+
 
 
 

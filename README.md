@@ -20,3 +20,14 @@ chmod [izinler] [dosya veya dizin]
 ```
 chmod u=rwx,g=rw,o=r dosya
 ```
+
+Bu kod parçacığında, "dosya" adlı dosya için özel kullanıcının (u) okuma, yazma ve çalıştırma izinlerine (rwx), ait olduğu grup kullanıcılarının (g) okuma ve yazma izinlerine (rw), diğer kullanıcıların (o) sadece okuma izinine (r) sahip olmaları belirtilmiştir.       
+
+"chmod" komutunun "dosya veya dizin" parametresi ise, izinlerinin değiştirileceği dosya veya dizinin adını belirtir.    
+Örneğin:    
+```
+chmod u=rwx,g=rw,o=r dosya1 dosya2 dizin
+```
+Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı dizin için aynı izinler verilmiştir.   
+
+

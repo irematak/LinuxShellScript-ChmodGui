@@ -63,7 +63,11 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 - chmod u=rw dosya2: Dosya2 dosyasına özel kullanıcının sadece okuma ve yazma izinlerine sahip olması sağlanır.  
 - chmod g-w dosya3: Dosya3 dosyasından ait olduğu grup kullanıcılarının yazma izni kaldırılır.
 - chmod o=r dosya4: Dosya4 dosyasına diğer kullanıcıların sadece okuma izni verilir.
-- chmod 754 dosya5: Dosya5 dosyasına özel kullanıcının çalıştırma, okuma ve yazma izinlerine, ait olduğu grup kullanıcılarının sadece okuma iznine ve diğer kullanıcıların sadece okuma iznine sahip olması sağlanır.
+- chmod 754 dosya5: Dosya5 dosyasına özel kullanıcının çalıştırma, okuma ve yazma izinlerine, ait olduğu grup kullanıcılarının sadece okuma iznine ve diğer kullanıcıların sadece okuma iznine sahip olması sağlanır.    
+
+## Nasıl Geliştirildi?
+
+> Bir Shell Script dosyasında geliştirilmiş bir uygulamadır. Shell Script dosyası oluşturmak için `nano file_name.sh` komutu ile Shell Script dosyanızı bir nano   editör ile oluşturup açıyoruz. Dosyanızın en başına `#!/bin/bash` yazınız. Dosyanızı `bash FileName.sh` komutuyla çalıştırabilirsiniz. Zenity kütüphaneleri kullanarak Shell Scripti etkileşimli halde ve daha anlaşılır şekilde kullanılmasına olanak sağlar. 
 
 
 

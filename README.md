@@ -79,7 +79,7 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 
 Bu şekilde görüntülenmektedir.   
 
-<img width="719" alt="2" src="https://user-images.githubusercontent.com/75726319/210251889-6e6408e2-c753-495d-a02f-7579d107454f.PNG">
+<img width="756" alt="2" src="https://user-images.githubusercontent.com/75726319/210251889-6e6408e2-c753-495d-a02f-7579d107454f.PNG">
 
 
 

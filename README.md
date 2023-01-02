@@ -13,3 +13,10 @@ Genel kullanım şekli şu şekildedir:
 ```
 chmod [izinler] [dosya veya dizin]
 ```
+
+"chmod" komutunun "izinler" parametresi, dosya veya dizinin izinlerinin nasıl değiştirileceğini belirtir. Bu parametre, kısaltmalar veya sayısal kodlar kullanılarak yazılabilir.   
+
+Örneğin:    
+```
+chmod u=rwx,g=rw,o=r dosya
+```

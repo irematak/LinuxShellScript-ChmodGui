@@ -67,7 +67,7 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 
 ## Nasıl Geliştirildi?
 
-> Bir Shell Script dosyasında geliştirilmiş bir uygulamadır. Shell Script dosyası oluşturmak için `nano file_name.sh` komutu ile Shell Script dosyanızı bir nano   editör ile oluşturup açıyoruz. Dosyanızın en başına `#!/bin/bash` yazınız. Dosyanızı `bash FileName.sh` komutuyla çalıştırabilirsiniz. Zenity kütüphaneleri Shell Scriptini etkileşimli halde ve daha anlaşılır şekilde kullanılmasına olanak sağlar. 
+> Bir Shell Script dosyasında geliştirilmiş bir uygulamadır. Shell Script dosyası oluşturmak için `nano file_name.sh` komutu ile Shell Script dosyanızı bir nano   editör ile oluşturup açıyoruz. Dosyanızın en başına `#!/bin/bash` yazınız. Dosyanızı `bash file_name.sh` komutuyla çalıştırabilirsiniz. Zenity kütüphaneleri Shell Scriptini etkileşimli halde ve daha anlaşılır şekilde kullanılmasına olanak sağlar. 
 
 ## Programın Özellikleri 
 
@@ -80,6 +80,11 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 Aşağıdaki gibi görüntülenmektedir.   
 
 <img width="756" alt="2" src="https://user-images.githubusercontent.com/75726319/210251889-6e6408e2-c753-495d-a02f-7579d107454f.PNG">
+
+- `bash file_name.sh` komutu ile dosya çalıştırılmaktadır.   
+
+
+<img width="756" alt="3" src="https://user-images.githubusercontent.com/75726319/210253483-f0205758-dbc9-4c28-8936-f1a9526b7427.PNG">
 
 
 

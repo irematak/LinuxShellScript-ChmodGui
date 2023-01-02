@@ -10,4 +10,4 @@ Bu komut, dosya veya dizinin okuma, yazma ve çalıştırma izinlerini değişti
 
 Genel kullanım şekli şu şekildedir:    
 
-```chmod [izinler] [dosya veya dizin]
+`` chmod [izinler] [dosya veya dizin]

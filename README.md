@@ -76,7 +76,15 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 - `nano file_name.sh` komutu ile shell script dosyası oluşturulup nano editöründe açılmaktadır.   
 
 <img width="719" alt="1" src="https://user-images.githubusercontent.com/75726319/210249089-747a45ae-c457-49bd-88c1-0b1d59c75555.PNG">
-<img width="756" alt="2" src="https://user-images.githubusercontent.com/75726319/210251889-6e6408e2-c753-495d-a02f-7579d107454f.PNG">
+
+Bu şekilde görüntülenmektedir.   
+
+<img width="719" alt="2" src="https://user-images.githubusercontent.com/75726319/210251889-6e6408e2-c753-495d-a02f-7579d107454f.PNG">
+
+
+
+
+
 
 
 

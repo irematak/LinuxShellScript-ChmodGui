@@ -40,11 +40,19 @@ Bu kod parçacığında, "dosya1" ve "dosya2" adlı dosyalar ve "dizin" adlı di
 - "g" parametresi: Ait olduğu grup kullanıcılarının izinlerini belirtir. Örneğin, "g=rw" şeklinde yazılırsa, ait olduğu grup kullanıcılarının okuma (r) ve yazma (w) izinlerine sahip olacağı anlamına gelir.    
 - "o" parametresi: Diğer kullanıcıların izinlerini belirtir. Örneğin, "o=r" şeklinde yazılırsa, diğer kullanıcıların sadece okuma (r) izinine sahip olacağı anlamına gelir.   
 
-"chmod" komutunun "izinler" parametresinin sayısal kodlar kullanılarak yazılış şekilleri şunlardır:  
+`chmod` komutunun "izinler" parametresinin sayısal kodlar kullanılarak yazılış şekilleri şunlardır:  
 
--4: Okuma izni verir. Örneğin, "4" şeklinde yazılırsa, sadece okuma izni verilir.   
--2: Yazma izni verir. Örneğin, "2" şeklinde yazılırsa, sadece yazma izni verilir.   
--1: Çalıştırma izni verir. Örneğin, "1" şeklinde yazılırsa, sadece çalıştırma izni verilir.   
+- 4: Okuma izni verir. Örneğin, "4" şeklinde yazılırsa, sadece okuma izni verilir.   
+- 2: Yazma izni verir. Örneğin, "2" şeklinde yazılırsa, sadece yazma izni verilir.   
+- 1: Çalıştırma izni verir. Örneğin, "1" şeklinde yazılırsa, sadece çalıştırma izni verilir.   
+
+Örnekler:   
+
+- chmod u+x dosya1: Dosya1 dosyasına özel kullanıcının çalıştırma izni verilir.
+- chmod u=rw dosya2: Dosya2 dosyasına özel kullanıcının sadece okuma ve yazma izinlerine sahip olması sağlanır.  
+- chmod g-w dosya3: Dosya3 dosyasından ait olduğu grup kullanıcılarının yazma izni kaldırılır.
+- chmod o=r dosya4: Dosya4 dosyasına diğer kullanıcıların sadece okuma izni verilir.
+- chmod 754 dosya5: Dosya5 dosyasına özel kullanıcının çalıştırma, okuma ve yazma izinlerine, ait olduğu grup kullanıcılarının sadece okuma iznine ve diğer kullanıcıların sadece okuma iznine sahip olması sağlanır.
 
 
 
